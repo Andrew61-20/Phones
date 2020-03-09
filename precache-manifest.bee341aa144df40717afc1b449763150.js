@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/Phones/static/js/runtime~main.8b3d2840.js"
   },
   {
-    "revision": "2218702db81c80380130",
-    "url": "/Phones/static/js/main.2218702d.chunk.js"
+    "revision": "5020f6fd06754febe115",
+    "url": "/Phones/static/js/main.5020f6fd.chunk.js"
   },
   {
     "revision": "c88180642f1e6a2f9996",
     "url": "/Phones/static/js/1.c8818064.chunk.js"
   },
   {
-    "revision": "2218702db81c80380130",
+    "revision": "5020f6fd06754febe115",
     "url": "/Phones/static/css/main.48b889f6.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Phones/static/css/1.cd5ac0de.chunk.css"
   },
   {
-    "revision": "b4a931396079b5ce21c991d2fbe148fc",
+    "revision": "362df3bb1d8ba45a77b1679d3e2dd8dd",
     "url": "/Phones/index.html"
   }
 ];
